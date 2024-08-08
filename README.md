@@ -1,4 +1,4 @@
-a comprehensive Contact Book application! 📚✨
+A comprehensive Contact Book application! 📚✨
 
 This tool includes:
 ▫ 📇 Contact Information: Store and manage names, phone numbers, emails, and addresses.
